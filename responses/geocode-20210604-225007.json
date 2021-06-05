@@ -1,0 +1,93 @@
+{
+  "79000": [
+    {
+      "address_components": [
+        {
+          "long_name": "Persiaran Puteri Selatan",
+          "short_name": "Persiaran Puteri Selatan",
+          "types": ["route"]
+        },
+        {
+          "long_name": "Puteri Harbour",
+          "short_name": "Puteri Harbour",
+          "types": ["political", "sublocality", "sublocality_level_1"]
+        },
+        {
+          "long_name": "Nusajaya",
+          "short_name": "Nusajaya",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Johor",
+          "short_name": "Johor",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Malaysia",
+          "short_name": "MY",
+          "types": ["country", "political"]
+        },
+        { "long_name": "79000", "short_name": "79000", "types": ["postal_code"] }
+      ],
+      "formatted_address": "Persiaran Puteri Selatan, Puteri Harbour, 79000 Nusajaya, Johor, Malaysia",
+      "geometry": {
+        "location": { "lat": 1.4171501, "lng": 103.6566612 },
+        "location_type": "GEOMETRIC_CENTER",
+        "viewport": {
+          "northeast": { "lat": 1.418499080291502, "lng": 103.6580101802915 },
+          "southwest": { "lat": 1.415801119708498, "lng": 103.6553122197085 }
+        }
+      },
+      "place_id": "ChIJmVwVZBYM2jERPI_0g3X7UjQ",
+      "plus_code": {
+        "compound_code": "CM84+VM Nusajaya, Johor, Malaysia",
+        "global_code": "6PH5CM84+VM"
+      },
+      "types": [
+        "bar",
+        "establishment",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "restaurant"
+      ]
+    }
+  ],
+  "83000": [
+    {
+      "address_components": [
+        { "long_name": "83000", "short_name": "83000", "types": ["postal_code"] },
+        {
+          "long_name": "Batu Pahat",
+          "short_name": "Batu Pahat",
+          "types": ["locality", "political"]
+        },
+        {
+          "long_name": "Johor",
+          "short_name": "Johor",
+          "types": ["administrative_area_level_1", "political"]
+        },
+        {
+          "long_name": "Malaysia",
+          "short_name": "MY",
+          "types": ["country", "political"]
+        }
+      ],
+      "formatted_address": "83000 Batu Pahat, Johor, Malaysia",
+      "geometry": {
+        "bounds": {
+          "northeast": { "lat": 2.06267, "lng": 103.0647192 },
+          "southwest": { "lat": 1.7832489, "lng": 102.7776028 }
+        },
+        "location": { "lat": 1.8539494, "lng": 102.9357477 },
+        "location_type": "APPROXIMATE",
+        "viewport": {
+          "northeast": { "lat": 2.06267, "lng": 103.0647192 },
+          "southwest": { "lat": 1.7832489, "lng": 102.7776028 }
+        }
+      },
+      "place_id": "ChIJBwffCfJR0DERHgLJBRczLME",
+      "types": ["postal_code"]
+    }
+  ]
+}

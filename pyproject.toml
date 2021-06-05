@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "mys-postcode-matrix"
+version = "0.1.0"
+description = ""
+authors = ["Tan Jiann Meng <jiannmeng@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = "^1.20.3"
+pandas = "^1.2.4"
+openpyxl = "^3.0.7"
+python-dotenv = "^0.17.1"
+googlemaps = "^4.4.5"
+
+[tool.poetry.dev-dependencies]
+black = "^21.5b2"
+jupyter = "^1.0.0"
+rope = "^0.19.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

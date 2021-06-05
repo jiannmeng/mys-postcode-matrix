@@ -1,0 +1,132 @@
+[
+    {
+        "destination_addresses": [
+            "JKR 510, Jalan Besar, Kampung Baru, 24200 Kemasik, Terengganu, Malaysia"
+        ],
+        "origin_addresses": [
+            "Jl. Kuala Berang, 23200 Bukit Besi, Terengganu, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "68.2 km",
+                            "value": 68248
+                        },
+                        "duration": {
+                            "text": "46 mins",
+                            "value": 2789
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 359, Jalan Telaga Papan, 24300, Kerteh, Terengganu, 24300 Kerteh, Terengganu, Malaysia"
+        ],
+        "origin_addresses": [
+            "Jl. Kuala Berang, 23200 Bukit Besi, Terengganu, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "61.0 km",
+                            "value": 60985
+                        },
+                        "duration": {
+                            "text": "41 mins",
+                            "value": 2431
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Jalan Sultan Abdul Rahman, Taman Mulia, 23400 Al-Muktafi Billah Shah, Terengganu, Malaysia"
+        ],
+        "origin_addresses": [
+            "Stesen Bas Ketengah Jaya,Kentegah Jaya, 22300 Ketengah Jaya, Terengganu, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.0 km",
+                            "value": 17971
+                        },
+                        "duration": {
+                            "text": "16 mins",
+                            "value": 952
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "K533, Jalan Sulaimani, Kampung Dusun Nyior, 24000 Kemaman, Terengganu, Malaysia"
+        ],
+        "origin_addresses": [
+            "Stesen Bas Ketengah Jaya,Kentegah Jaya, 22300 Ketengah Jaya, Terengganu, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "59.7 km",
+                            "value": 59730
+                        },
+                        "duration": {
+                            "text": "51 mins",
+                            "value": 3057
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pt 13850, Jalan Air Putih, Gong Pauh, Terengganu, Kampung Air Putih, 24000 Chukai, Terengganu, Malaysia"
+        ],
+        "origin_addresses": [
+            "Stesen Bas Ketengah Jaya,Kentegah Jaya, 22300 Ketengah Jaya, Terengganu, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "51.0 km",
+                            "value": 50955
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2428
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    }
+]
