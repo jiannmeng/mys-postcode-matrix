@@ -6,6 +6,7 @@ import dotenv
 import numpy as np
 from datetime import datetime
 from ast import literal_eval
+from shapely.geometry import shape, Point
 
 
 FilePath = Union[Path, str]
@@ -120,5 +121,3 @@ def parse_coord_tuple(input: str) -> tuple[float, float]:
     if len(result) != 2:
         raise ValueError("input must have exactly two parsable floats")
     return result # type: ignore
-
-import pandas as pd
