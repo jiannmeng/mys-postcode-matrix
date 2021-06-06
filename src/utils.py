@@ -102,3 +102,9 @@ def haversine_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
 def now() -> str:
     t = datetime.now()
     return t.strftime("%Y%m%d-%H%M%S")
+
+def postcode_str(pc: Union[int, str]) -> str:
+    """Stringify a postcode, padding with zeros on the left."""
+    if int(pc) < 0 or int(pc) > 99999:
+        raise ValueError("Postcode must be between 0 and 99999")
+    return str(pc).zfill(5)
