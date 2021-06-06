@@ -945,7 +945,7 @@ notebook = ">=4.4.1"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "0c9f314b9e0fab4001ce28d72709eae5d70de0400fa4f6544fcf58f343f6210e"
+content-hash = "16ea3ad2de0038abd451566aafc6f607694045336c258a686cd394468436ab41"
 
 [metadata.files]
 appdirs = [
