@@ -5,6 +5,7 @@ from typing import Union
 import dotenv
 import numpy as np
 from datetime import datetime
+from ast import literal_eval
 
 
 FilePath = Union[Path, str]
@@ -108,3 +109,16 @@ def postcode_str(pc: Union[int, str]) -> str:
     if int(pc) < 0 or int(pc) > 99999:
         raise ValueError("Postcode must be between 0 and 99999")
     return str(pc).zfill(5)
+
+def parse_coord_tuple(input: str) -> tuple[float, float]:
+    result = literal_eval(input)
+    if not isinstance(result, tuple):
+        raise ValueError("input must be parsable into a tuple")
+    for num in result:
+        if not isinstance(num, float):
+            raise ValueError("inner values of input tuple must be parsable into floats")
+    if len(result) != 2:
+        raise ValueError("input must have exactly two parsable floats")
+    return result # type: ignore
+
+import pandas as pd

@@ -1,0 +1,6008 @@
+[
+    {
+        "destination_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "54.0 km",
+                            "value": 54035
+                        },
+                        "duration": {
+                            "text": "53 mins",
+                            "value": 3175
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "33.5 km",
+                            "value": 33458
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2158
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "44.2 km",
+                            "value": 44163
+                        },
+                        "duration": {
+                            "text": "53 mins",
+                            "value": 3166
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "47.8 km",
+                            "value": 47763
+                        },
+                        "duration": {
+                            "text": "1 hour 0 mins",
+                            "value": 3599
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "41.8 km",
+                            "value": 41773
+                        },
+                        "duration": {
+                            "text": "50 mins",
+                            "value": 3005
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "41.0 km",
+                            "value": 40959
+                        },
+                        "duration": {
+                            "text": "55 mins",
+                            "value": 3278
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "34.3 km",
+                            "value": 34320
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2374
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "30.0 km",
+                            "value": 29993
+                        },
+                        "duration": {
+                            "text": "32 mins",
+                            "value": 1891
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "28.0 km",
+                            "value": 27974
+                        },
+                        "duration": {
+                            "text": "30 mins",
+                            "value": 1800
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "27.9 km",
+                            "value": 27898
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1883
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "38.2 km",
+                            "value": 38230
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2187
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "32.4 km",
+                            "value": 32419
+                        },
+                        "duration": {
+                            "text": "29 mins",
+                            "value": 1751
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "21.1 km",
+                            "value": 21077
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1486
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "36.0 km",
+                            "value": 36002
+                        },
+                        "duration": {
+                            "text": "41 mins",
+                            "value": 2441
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "37.1 km",
+                            "value": 37064
+                        },
+                        "duration": {
+                            "text": "41 mins",
+                            "value": 2460
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "21.8 km",
+                            "value": 21770
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1507
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "20.0 km",
+                            "value": 20047
+                        },
+                        "duration": {
+                            "text": "24 mins",
+                            "value": 1467
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "13.9 km",
+                            "value": 13909
+                        },
+                        "duration": {
+                            "text": "24 mins",
+                            "value": 1435
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "9.0 km",
+                            "value": 8992
+                        },
+                        "duration": {
+                            "text": "15 mins",
+                            "value": 912
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "20.4 km",
+                            "value": 20388
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1485
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No 26, Lorong Jentayu 4, Taman Jentayu, Simpang Ampat, 14120 Simpang Ampat, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.0 km",
+                            "value": 18047
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1860
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "56.9 km",
+                            "value": 56855
+                        },
+                        "duration": {
+                            "text": "52 mins",
+                            "value": 3130
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "67.6 km",
+                            "value": 67559
+                        },
+                        "duration": {
+                            "text": "1 hour 9 mins",
+                            "value": 4138
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "71.2 km",
+                            "value": 71159
+                        },
+                        "duration": {
+                            "text": "1 hour 16 mins",
+                            "value": 4571
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "65.2 km",
+                            "value": 65170
+                        },
+                        "duration": {
+                            "text": "1 hour 6 mins",
+                            "value": 3977
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "64.4 km",
+                            "value": 64355
+                        },
+                        "duration": {
+                            "text": "1 hour 11 mins",
+                            "value": 4250
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "57.7 km",
+                            "value": 57717
+                        },
+                        "duration": {
+                            "text": "56 mins",
+                            "value": 3346
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "53.4 km",
+                            "value": 53389
+                        },
+                        "duration": {
+                            "text": "48 mins",
+                            "value": 2863
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "51.4 km",
+                            "value": 51371
+                        },
+                        "duration": {
+                            "text": "46 mins",
+                            "value": 2772
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "51.3 km",
+                            "value": 51295
+                        },
+                        "duration": {
+                            "text": "48 mins",
+                            "value": 2855
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "61.0 km",
+                            "value": 60998
+                        },
+                        "duration": {
+                            "text": "55 mins",
+                            "value": 3309
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "58.1 km",
+                            "value": 58141
+                        },
+                        "duration": {
+                            "text": "51 mins",
+                            "value": 3053
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "40.0 km",
+                            "value": 40043
+                        },
+                        "duration": {
+                            "text": "39 mins",
+                            "value": 2348
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "22.9 km",
+                            "value": 22884
+                        },
+                        "duration": {
+                            "text": "32 mins",
+                            "value": 1894
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "26.3 km",
+                            "value": 26341
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2170
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "34.2 km",
+                            "value": 34154
+                        },
+                        "duration": {
+                            "text": "33 mins",
+                            "value": 1956
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "41.5 km",
+                            "value": 41460
+                        },
+                        "duration": {
+                            "text": "39 mins",
+                            "value": 2359
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "44.6 km",
+                            "value": 44581
+                        },
+                        "duration": {
+                            "text": "43 mins",
+                            "value": 2588
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "60.1 km",
+                            "value": 60065
+                        },
+                        "duration": {
+                            "text": "59 mins",
+                            "value": 3543
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "67.3 km",
+                            "value": 67339
+                        },
+                        "duration": {
+                            "text": "59 mins",
+                            "value": 3538
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Unnamed Road, 08000 Sungai Petani, Kedah, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "37.5 km",
+                            "value": 37499
+                        },
+                        "duration": {
+                            "text": "39 mins",
+                            "value": 2345
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "27.0 km",
+                            "value": 27022
+                        },
+                        "duration": {
+                            "text": "38 mins",
+                            "value": 2251
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "17.3 km",
+                            "value": 17320
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1856
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "11.3 km",
+                            "value": 11330
+                        },
+                        "duration": {
+                            "text": "21 mins",
+                            "value": 1263
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "13.6 km",
+                            "value": 13556
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1851
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "8.7 km",
+                            "value": 8691
+                        },
+                        "duration": {
+                            "text": "19 mins",
+                            "value": 1166
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "6.1 km",
+                            "value": 6077
+                        },
+                        "duration": {
+                            "text": "12 mins",
+                            "value": 718
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "8.6 km",
+                            "value": 8573
+                        },
+                        "duration": {
+                            "text": "15 mins",
+                            "value": 891
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "10.9 km",
+                            "value": 10869
+                        },
+                        "duration": {
+                            "text": "16 mins",
+                            "value": 976
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "20.5 km",
+                            "value": 20460
+                        },
+                        "duration": {
+                            "text": "24 mins",
+                            "value": 1422
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "17.6 km",
+                            "value": 17603
+                        },
+                        "duration": {
+                            "text": "19 mins",
+                            "value": 1167
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "23.8 km",
+                            "value": 23828
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1523
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "38.8 km",
+                            "value": 38836
+                        },
+                        "duration": {
+                            "text": "42 mins",
+                            "value": 2490
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "39.9 km",
+                            "value": 39898
+                        },
+                        "duration": {
+                            "text": "42 mins",
+                            "value": 2509
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "24.6 km",
+                            "value": 24605
+                        },
+                        "duration": {
+                            "text": "26 mins",
+                            "value": 1556
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "22.8 km",
+                            "value": 22775
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1500
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "27.4 km",
+                            "value": 27350
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1840
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "39.9 km",
+                            "value": 39928
+                        },
+                        "duration": {
+                            "text": "44 mins",
+                            "value": 2641
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "47.2 km",
+                            "value": 47202
+                        },
+                        "duration": {
+                            "text": "44 mins",
+                            "value": 2635
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10710, Lebuh Downing, George Town, 10200 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "30.0 km",
+                            "value": 29960
+                        },
+                        "duration": {
+                            "text": "32 mins",
+                            "value": 1898
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "24.7 km",
+                            "value": 24744
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2398
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "27.2 km",
+                            "value": 27228
+                        },
+                        "duration": {
+                            "text": "44 mins",
+                            "value": 2648
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "26.4 km",
+                            "value": 26414
+                        },
+                        "duration": {
+                            "text": "49 mins",
+                            "value": 2921
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "15.2 km",
+                            "value": 15153
+                        },
+                        "duration": {
+                            "text": "23 mins",
+                            "value": 1385
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "19.7 km",
+                            "value": 19745
+                        },
+                        "duration": {
+                            "text": "28 mins",
+                            "value": 1682
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "17.9 km",
+                            "value": 17888
+                        },
+                        "duration": {
+                            "text": "27 mins",
+                            "value": 1591
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "15.9 km",
+                            "value": 15856
+                        },
+                        "duration": {
+                            "text": "23 mins",
+                            "value": 1404
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "12.6 km",
+                            "value": 12601
+                        },
+                        "duration": {
+                            "text": "18 mins",
+                            "value": 1057
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.0 km",
+                            "value": 17977
+                        },
+                        "duration": {
+                            "text": "26 mins",
+                            "value": 1566
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "33.1 km",
+                            "value": 33061
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2377
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "48.1 km",
+                            "value": 48069
+                        },
+                        "duration": {
+                            "text": "56 mins",
+                            "value": 3344
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "49.1 km",
+                            "value": 49131
+                        },
+                        "duration": {
+                            "text": "56 mins",
+                            "value": 3363
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "33.8 km",
+                            "value": 33837
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2410
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "32.0 km",
+                            "value": 32008
+                        },
+                        "duration": {
+                            "text": "39 mins",
+                            "value": 2354
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "36.6 km",
+                            "value": 36583
+                        },
+                        "duration": {
+                            "text": "45 mins",
+                            "value": 2694
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "55.7 km",
+                            "value": 55721
+                        },
+                        "duration": {
+                            "text": "55 mins",
+                            "value": 3325
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "55.3 km",
+                            "value": 55316
+                        },
+                        "duration": {
+                            "text": "56 mins",
+                            "value": 3342
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2312, Jalan Besar,Balik Pulau,11000, 11000 Balik Pulau, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "39.2 km",
+                            "value": 39192
+                        },
+                        "duration": {
+                            "text": "46 mins",
+                            "value": 2752
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "6.5 km",
+                            "value": 6500
+                        },
+                        "duration": {
+                            "text": "11 mins",
+                            "value": 677
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.7 km",
+                            "value": 18720
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2398
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.9 km",
+                            "value": 18868
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2041
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "20.4 km",
+                            "value": 20415
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2019
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "20.8 km",
+                            "value": 20846
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2052
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "23.7 km",
+                            "value": 23685
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2376
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "34.8 km",
+                            "value": 34780
+                        },
+                        "duration": {
+                            "text": "47 mins",
+                            "value": 2846
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "31.9 km",
+                            "value": 31923
+                        },
+                        "duration": {
+                            "text": "43 mins",
+                            "value": 2591
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "38.1 km",
+                            "value": 38148
+                        },
+                        "duration": {
+                            "text": "49 mins",
+                            "value": 2947
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "53.2 km",
+                            "value": 53156
+                        },
+                        "duration": {
+                            "text": "1 hour 5 mins",
+                            "value": 3914
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "54.2 km",
+                            "value": 54218
+                        },
+                        "duration": {
+                            "text": "1 hour 6 mins",
+                            "value": 3933
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "38.9 km",
+                            "value": 38924
+                        },
+                        "duration": {
+                            "text": "50 mins",
+                            "value": 2980
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "37.1 km",
+                            "value": 37094
+                        },
+                        "duration": {
+                            "text": "49 mins",
+                            "value": 2924
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "41.7 km",
+                            "value": 41670
+                        },
+                        "duration": {
+                            "text": "54 mins",
+                            "value": 3264
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "54.2 km",
+                            "value": 54248
+                        },
+                        "duration": {
+                            "text": "1 hour 8 mins",
+                            "value": 4065
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "61.5 km",
+                            "value": 61521
+                        },
+                        "duration": {
+                            "text": "1 hour 8 mins",
+                            "value": 4059
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 76A, 1st Floor, Jalan Batu Ferringhi, Pulau Pinang, 11100 Batu Ferringhi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "44.3 km",
+                            "value": 44279
+                        },
+                        "duration": {
+                            "text": "55 mins",
+                            "value": 3321
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "13.1 km",
+                            "value": 13097
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1860
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "13.2 km",
+                            "value": 13245
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1503
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "14.8 km",
+                            "value": 14791
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1481
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "15.2 km",
+                            "value": 15222
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1514
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.1 km",
+                            "value": 18061
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1838
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "29.2 km",
+                            "value": 29156
+                        },
+                        "duration": {
+                            "text": "38 mins",
+                            "value": 2308
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "26.3 km",
+                            "value": 26299
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2052
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "32.5 km",
+                            "value": 32524
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2408
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "47.5 km",
+                            "value": 47533
+                        },
+                        "duration": {
+                            "text": "56 mins",
+                            "value": 3376
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "48.6 km",
+                            "value": 48594
+                        },
+                        "duration": {
+                            "text": "57 mins",
+                            "value": 3395
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "33.3 km",
+                            "value": 33301
+                        },
+                        "duration": {
+                            "text": "41 mins",
+                            "value": 2441
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "31.5 km",
+                            "value": 31471
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2385
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "36.0 km",
+                            "value": 36047
+                        },
+                        "duration": {
+                            "text": "45 mins",
+                            "value": 2726
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "48.6 km",
+                            "value": 48624
+                        },
+                        "duration": {
+                            "text": "59 mins",
+                            "value": 3527
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "55.9 km",
+                            "value": 55898
+                        },
+                        "duration": {
+                            "text": "59 mins",
+                            "value": 3521
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 2072, Jalan Tanjung Bungah, 11200 Tanjung Bungah, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "38.7 km",
+                            "value": 38656
+                        },
+                        "duration": {
+                            "text": "46 mins",
+                            "value": 2783
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "12.2 km",
+                            "value": 12199
+                        },
+                        "duration": {
+                            "text": "30 mins",
+                            "value": 1803
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "13.7 km",
+                            "value": 13745
+                        },
+                        "duration": {
+                            "text": "30 mins",
+                            "value": 1782
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "14.2 km",
+                            "value": 14176
+                        },
+                        "duration": {
+                            "text": "30 mins",
+                            "value": 1814
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "17.0 km",
+                            "value": 17015
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2138
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "28.1 km",
+                            "value": 28110
+                        },
+                        "duration": {
+                            "text": "43 mins",
+                            "value": 2609
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "25.3 km",
+                            "value": 25253
+                        },
+                        "duration": {
+                            "text": "39 mins",
+                            "value": 2353
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "31.5 km",
+                            "value": 31478
+                        },
+                        "duration": {
+                            "text": "45 mins",
+                            "value": 2709
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "46.5 km",
+                            "value": 46486
+                        },
+                        "duration": {
+                            "text": "1 hour 1 min",
+                            "value": 3677
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "47.5 km",
+                            "value": 47548
+                        },
+                        "duration": {
+                            "text": "1 hour 2 mins",
+                            "value": 3696
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "32.3 km",
+                            "value": 32255
+                        },
+                        "duration": {
+                            "text": "46 mins",
+                            "value": 2742
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "30.4 km",
+                            "value": 30425
+                        },
+                        "duration": {
+                            "text": "45 mins",
+                            "value": 2686
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "35.0 km",
+                            "value": 35001
+                        },
+                        "duration": {
+                            "text": "50 mins",
+                            "value": 3027
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "47.6 km",
+                            "value": 47578
+                        },
+                        "duration": {
+                            "text": "1 hour 4 mins",
+                            "value": 3827
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "54.9 km",
+                            "value": 54852
+                        },
+                        "duration": {
+                            "text": "1 hour 4 mins",
+                            "value": 3822
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Penang Hill, Bukit Bendera, Penang Hill, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "37.6 km",
+                            "value": 37610
+                        },
+                        "duration": {
+                            "text": "51 mins",
+                            "value": 3084
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "7.1 km",
+                            "value": 7072
+                        },
+                        "duration": {
+                            "text": "13 mins",
+                            "value": 757
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "7.5 km",
+                            "value": 7503
+                        },
+                        "duration": {
+                            "text": "13 mins",
+                            "value": 790
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "10.3 km",
+                            "value": 10342
+                        },
+                        "duration": {
+                            "text": "19 mins",
+                            "value": 1113
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "14.8 km",
+                            "value": 14829
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1472
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.6 km",
+                            "value": 18580
+                        },
+                        "duration": {
+                            "text": "22 mins",
+                            "value": 1328
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "24.8 km",
+                            "value": 24805
+                        },
+                        "duration": {
+                            "text": "28 mins",
+                            "value": 1684
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "39.8 km",
+                            "value": 39814
+                        },
+                        "duration": {
+                            "text": "44 mins",
+                            "value": 2652
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "40.9 km",
+                            "value": 40875
+                        },
+                        "duration": {
+                            "text": "45 mins",
+                            "value": 2671
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "25.6 km",
+                            "value": 25582
+                        },
+                        "duration": {
+                            "text": "29 mins",
+                            "value": 1717
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "23.8 km",
+                            "value": 23752
+                        },
+                        "duration": {
+                            "text": "28 mins",
+                            "value": 1661
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "28.3 km",
+                            "value": 28328
+                        },
+                        "duration": {
+                            "text": "33 mins",
+                            "value": 2002
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "40.9 km",
+                            "value": 40905
+                        },
+                        "duration": {
+                            "text": "47 mins",
+                            "value": 2802
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "48.2 km",
+                            "value": 48179
+                        },
+                        "duration": {
+                            "text": "47 mins",
+                            "value": 2797
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1, Jalan Batu Perempuan, 11500 Ayer Itam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "30.9 km",
+                            "value": 30937
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2059
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "2.5 km",
+                            "value": 2517
+                        },
+                        "duration": {
+                            "text": "5 mins",
+                            "value": 284
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "5.4 km",
+                            "value": 5356
+                        },
+                        "duration": {
+                            "text": "10 mins",
+                            "value": 608
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "16.4 km",
+                            "value": 16444
+                        },
+                        "duration": {
+                            "text": "19 mins",
+                            "value": 1110
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "13.6 km",
+                            "value": 13587
+                        },
+                        "duration": {
+                            "text": "14 mins",
+                            "value": 854
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "20.1 km",
+                            "value": 20136
+                        },
+                        "duration": {
+                            "text": "21 mins",
+                            "value": 1277
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "35.1 km",
+                            "value": 35144
+                        },
+                        "duration": {
+                            "text": "37 mins",
+                            "value": 2244
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "36.2 km",
+                            "value": 36206
+                        },
+                        "duration": {
+                            "text": "38 mins",
+                            "value": 2263
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "20.9 km",
+                            "value": 20912
+                        },
+                        "duration": {
+                            "text": "22 mins",
+                            "value": 1310
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "19.1 km",
+                            "value": 19082
+                        },
+                        "duration": {
+                            "text": "21 mins",
+                            "value": 1254
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "23.7 km",
+                            "value": 23658
+                        },
+                        "duration": {
+                            "text": "27 mins",
+                            "value": 1594
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "36.2 km",
+                            "value": 36236
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2395
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "43.5 km",
+                            "value": 43509
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2389
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "598j, Jalan Jelutong, Jelutong, 11600 George Town, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "26.3 km",
+                            "value": 26267
+                        },
+                        "duration": {
+                            "text": "28 mins",
+                            "value": 1652
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "3.0 km",
+                            "value": 2972
+                        },
+                        "duration": {
+                            "text": "7 mins",
+                            "value": 420
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "11.6 km",
+                            "value": 11604
+                        },
+                        "duration": {
+                            "text": "20 mins",
+                            "value": 1181
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "14.5 km",
+                            "value": 14457
+                        },
+                        "duration": {
+                            "text": "15 mins",
+                            "value": 925
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "17.8 km",
+                            "value": 17751
+                        },
+                        "duration": {
+                            "text": "18 mins",
+                            "value": 1088
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "32.8 km",
+                            "value": 32760
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2055
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "33.8 km",
+                            "value": 33821
+                        },
+                        "duration": {
+                            "text": "35 mins",
+                            "value": 2075
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.5 km",
+                            "value": 18528
+                        },
+                        "duration": {
+                            "text": "19 mins",
+                            "value": 1121
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "16.7 km",
+                            "value": 16698
+                        },
+                        "duration": {
+                            "text": "18 mins",
+                            "value": 1065
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "21.3 km",
+                            "value": 21274
+                        },
+                        "duration": {
+                            "text": "23 mins",
+                            "value": 1405
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "33.9 km",
+                            "value": 33851
+                        },
+                        "duration": {
+                            "text": "37 mins",
+                            "value": 2206
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "41.1 km",
+                            "value": 41125
+                        },
+                        "duration": {
+                            "text": "37 mins",
+                            "value": 2201
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "10b, Jalan Sultan Azlan Shah, Minden Heights, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "23.9 km",
+                            "value": 23883
+                        },
+                        "duration": {
+                            "text": "24 mins",
+                            "value": 1463
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "10.6 km",
+                            "value": 10610
+                        },
+                        "duration": {
+                            "text": "18 mins",
+                            "value": 1085
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "15.8 km",
+                            "value": 15797
+                        },
+                        "duration": {
+                            "text": "17 mins",
+                            "value": 1013
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "19.1 km",
+                            "value": 19091
+                        },
+                        "duration": {
+                            "text": "20 mins",
+                            "value": 1190
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "34.1 km",
+                            "value": 34099
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2157
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "35.2 km",
+                            "value": 35161
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2176
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "19.9 km",
+                            "value": 19867
+                        },
+                        "duration": {
+                            "text": "20 mins",
+                            "value": 1223
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.0 km",
+                            "value": 18037
+                        },
+                        "duration": {
+                            "text": "19 mins",
+                            "value": 1167
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "22.6 km",
+                            "value": 22613
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1507
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "35.2 km",
+                            "value": 35191
+                        },
+                        "duration": {
+                            "text": "38 mins",
+                            "value": 2308
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "42.5 km",
+                            "value": 42464
+                        },
+                        "duration": {
+                            "text": "38 mins",
+                            "value": 2302
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "C18, 11700 Gelugor, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "25.2 km",
+                            "value": 25222
+                        },
+                        "duration": {
+                            "text": "26 mins",
+                            "value": 1564
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "5.8 km",
+                            "value": 5801
+                        },
+                        "duration": {
+                            "text": "9 mins",
+                            "value": 558
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "30.6 km",
+                            "value": 30578
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1833
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "45.6 km",
+                            "value": 45586
+                        },
+                        "duration": {
+                            "text": "47 mins",
+                            "value": 2801
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "46.6 km",
+                            "value": 46648
+                        },
+                        "duration": {
+                            "text": "47 mins",
+                            "value": 2820
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "31.4 km",
+                            "value": 31354
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1866
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "29.5 km",
+                            "value": 29524
+                        },
+                        "duration": {
+                            "text": "30 mins",
+                            "value": 1810
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "34.1 km",
+                            "value": 34100
+                        },
+                        "duration": {
+                            "text": "36 mins",
+                            "value": 2151
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "43.5 km",
+                            "value": 43546
+                        },
+                        "duration": {
+                            "text": "39 mins",
+                            "value": 2317
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "43.1 km",
+                            "value": 43141
+                        },
+                        "duration": {
+                            "text": "39 mins",
+                            "value": 2334
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1222, Jalan Bayan Lepas, Kampung Bukit, 11900 Bayan Lepas, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "36.7 km",
+                            "value": 36709
+                        },
+                        "duration": {
+                            "text": "37 mins",
+                            "value": 2208
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "25.0 km",
+                            "value": 25023
+                        },
+                        "duration": {
+                            "text": "24 mins",
+                            "value": 1457
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "40.0 km",
+                            "value": 40032
+                        },
+                        "duration": {
+                            "text": "40 mins",
+                            "value": 2424
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "41.1 km",
+                            "value": 41093
+                        },
+                        "duration": {
+                            "text": "41 mins",
+                            "value": 2443
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "25.8 km",
+                            "value": 25800
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1490
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "24.0 km",
+                            "value": 23970
+                        },
+                        "duration": {
+                            "text": "24 mins",
+                            "value": 1434
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "28.5 km",
+                            "value": 28546
+                        },
+                        "duration": {
+                            "text": "30 mins",
+                            "value": 1774
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "38.0 km",
+                            "value": 37991
+                        },
+                        "duration": {
+                            "text": "32 mins",
+                            "value": 1941
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "37.6 km",
+                            "value": 37586
+                        },
+                        "duration": {
+                            "text": "33 mins",
+                            "value": 1958
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "226, MK 12 Jalan Batu Maung, 11960, Bayan Lepas, Pulau Pinang, 11960 Batu Maung, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "31.2 km",
+                            "value": 31155
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1832
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "15.5 km",
+                            "value": 15546
+                        },
+                        "duration": {
+                            "text": "18 mins",
+                            "value": 1096
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "22.4 km",
+                            "value": 22432
+                        },
+                        "duration": {
+                            "text": "26 mins",
+                            "value": 1560
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "9.8 km",
+                            "value": 9761
+                        },
+                        "duration": {
+                            "text": "12 mins",
+                            "value": 735
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "5.2 km",
+                            "value": 5195
+                        },
+                        "duration": {
+                            "text": "9 mins",
+                            "value": 512
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "12.2 km",
+                            "value": 12195
+                        },
+                        "duration": {
+                            "text": "17 mins",
+                            "value": 1005
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "27.9 km",
+                            "value": 27875
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2010
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "35.1 km",
+                            "value": 35149
+                        },
+                        "duration": {
+                            "text": "33 mins",
+                            "value": 2004
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "P186, 12100 Butterworth, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "13.4 km",
+                            "value": 13397
+                        },
+                        "duration": {
+                            "text": "18 mins",
+                            "value": 1087
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "18.3 km",
+                            "value": 18264
+                        },
+                        "duration": {
+                            "text": "26 mins",
+                            "value": 1540
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "15.8 km",
+                            "value": 15789
+                        },
+                        "duration": {
+                            "text": "21 mins",
+                            "value": 1288
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "19.8 km",
+                            "value": 19754
+                        },
+                        "duration": {
+                            "text": "25 mins",
+                            "value": 1505
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "26.8 km",
+                            "value": 26754
+                        },
+                        "duration": {
+                            "text": "33 mins",
+                            "value": 1999
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "41.7 km",
+                            "value": 41701
+                        },
+                        "duration": {
+                            "text": "48 mins",
+                            "value": 2875
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "49.0 km",
+                            "value": 48974
+                        },
+                        "duration": {
+                            "text": "48 mins",
+                            "value": 2870
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "1205, Jalan Penaga, Kampung Penaga Dua, 13110 Penaga, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "19.2 km",
+                            "value": 19153
+                        },
+                        "duration": {
+                            "text": "27 mins",
+                            "value": 1644
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "16.1 km",
+                            "value": 16108
+                        },
+                        "duration": {
+                            "text": "21 mins",
+                            "value": 1283
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "23.4 km",
+                            "value": 23414
+                        },
+                        "duration": {
+                            "text": "28 mins",
+                            "value": 1686
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "15.7 km",
+                            "value": 15717
+                        },
+                        "duration": {
+                            "text": "23 mins",
+                            "value": 1360
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "42.0 km",
+                            "value": 42019
+                        },
+                        "duration": {
+                            "text": "48 mins",
+                            "value": 2870
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "49.3 km",
+                            "value": 49293
+                        },
+                        "duration": {
+                            "text": "48 mins",
+                            "value": 2865
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Pos Malaysia Tasek Gelugor , Jalan Tasek Gelugor, 13300 Tasek Gelugor, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "11.4 km",
+                            "value": 11418
+                        },
+                        "duration": {
+                            "text": "15 mins",
+                            "value": 915
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "8.6 km",
+                            "value": 8641
+                        },
+                        "duration": {
+                            "text": "12 mins",
+                            "value": 699
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "9.7 km",
+                            "value": 9727
+                        },
+                        "duration": {
+                            "text": "17 mins",
+                            "value": 1012
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "27.2 km",
+                            "value": 27246
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1883
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "34.5 km",
+                            "value": 34520
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1878
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "JKR 1270, Jalan Sama Gagah, Permatang Pauh, 13500 Permatang Pauh, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "6.0 km",
+                            "value": 6046
+                        },
+                        "duration": {
+                            "text": "8 mins",
+                            "value": 508
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "9.6 km",
+                            "value": 9621
+                        },
+                        "duration": {
+                            "text": "14 mins",
+                            "value": 860
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "25.3 km",
+                            "value": 25301
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1865
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "32.6 km",
+                            "value": 32575
+                        },
+                        "duration": {
+                            "text": "31 mins",
+                            "value": 1859
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "3948, Jalan Perai, Taman Inderawasih, 13600 Perai, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "12.5 km",
+                            "value": 12542
+                        },
+                        "duration": {
+                            "text": "16 mins",
+                            "value": 932
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "22.6 km",
+                            "value": 22584
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2031
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "29.9 km",
+                            "value": 29858
+                        },
+                        "duration": {
+                            "text": "34 mins",
+                            "value": 2025
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "75, Jalan Arumugan Pillai, 14000 Bukit Mertajam, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "5.2 km",
+                            "value": 5185
+                        },
+                        "duration": {
+                            "text": "9 mins",
+                            "value": 550
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "6.7 km",
+                            "value": 6691
+                        },
+                        "duration": {
+                            "text": "12 mins",
+                            "value": 733
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "Balai Polis Sungai Bakap, Kampung Makau Suah, 14200 Sungai Jawi, Penang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "40.1 km",
+                            "value": 40079
+                        },
+                        "duration": {
+                            "text": "38 mins",
+                            "value": 2252
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    },
+    {
+        "destination_addresses": [
+            "Pejabat Pos Penanti, Pekan Kubang Semang, 14400 Kubang Semang, Penang, Malaysia"
+        ],
+        "origin_addresses": [
+            "No. 224, Lorong Nuri, Taman Sentosa, 14300 Nibong Tebal, Pulau Pinang, Malaysia"
+        ],
+        "rows": [
+            {
+                "elements": [
+                    {
+                        "distance": {
+                            "text": "39.6 km",
+                            "value": 39619
+                        },
+                        "duration": {
+                            "text": "38 mins",
+                            "value": 2296
+                        },
+                        "status": "OK"
+                    }
+                ]
+            }
+        ],
+        "status": "OK"
+    }
+]
