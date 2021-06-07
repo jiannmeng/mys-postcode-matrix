@@ -1,4 +1,4 @@
-ppv_region,master_postcode_1,latitude_1,longitude_1,master_postcode_2,latitude_2,longitude_2
+ppv_region,master_postcode_1,lat_1,lon_1,master_postcode_2,lat_2,lon_2
 Johor,79000,1.42513621,103.61443042,80000,1.456123,103.761701
 Johor,79000,1.42513621,103.61443042,81000,1.662964,103.600178
 Johor,79000,1.42513621,103.61443042,81300,1.4971995,103.711685
