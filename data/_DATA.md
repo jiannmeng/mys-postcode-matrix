@@ -57,6 +57,8 @@ postcode.my's postcodes are not exactly the same as PosM's postcodes. The coordi
 
 For PosM's data file, there are some POSTCODEs with outright incorrect coordinates. This file contains hand-corrected coordinates, which should be merged into the dataframe before further data analysis.
 
+When using pd.read_excel, we recommend passing the function `src.utils.postcode_str` to the converters argument to convert the integer postcode and master_postcode into a 5-character string.
+
 ### json_1_states.json
 
 A GeoJson file containing boundaries for each state. Note that the state names are not exactly the same as PosM's states, and will need some cleaning to match these up.

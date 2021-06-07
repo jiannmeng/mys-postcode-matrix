@@ -6,6 +6,7 @@ from typing import Union
 
 import dotenv
 import numpy as np
+import pandas as pd
 
 FilePath = Union[Path, str]
 
