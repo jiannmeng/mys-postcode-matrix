@@ -1,13 +1,11 @@
 import hashlib
+from ast import literal_eval
+from datetime import datetime
 from pathlib import Path
 from typing import Union
 
 import dotenv
 import numpy as np
-from datetime import datetime
-from ast import literal_eval
-from shapely.geometry import shape, Point
-
 
 FilePath = Union[Path, str]
 
@@ -102,14 +100,17 @@ def haversine_km(lat1: float, lon1: float, lat2: float, lon2: float) -> float:
 
 
 def now() -> str:
+    """Return the current time as a YYYYMMDD-hhmmss string."""
     t = datetime.now()
     return t.strftime("%Y%m%d-%H%M%S")
+
 
 def postcode_str(pc: Union[int, str]) -> str:
     """Stringify a postcode, padding with zeros on the left."""
     if int(pc) < 0 or int(pc) > 99999:
         raise ValueError("Postcode must be between 0 and 99999")
     return str(pc).zfill(5)
+
 
 def parse_coord_tuple(input: str) -> tuple[float, float]:
     result = literal_eval(input)
@@ -120,4 +121,4 @@ def parse_coord_tuple(input: str) -> tuple[float, float]:
             raise ValueError("inner values of input tuple must be parsable into floats")
     if len(result) != 2:
         raise ValueError("input must have exactly two parsable floats")
-    return result # type: ignore
+    return result  # type: ignore

@@ -1,5 +1,12 @@
+# Folders
+.ipynb_checkpoints/
 __pycache__/
 .venv/
 .vscode/
 wheels/
+
+# Files
 .env
+
+# Temporary files created by Office (starts with ~$)
+~$*
