@@ -65,6 +65,6 @@ A GeoJson file containing boundaries for each state. Note that the state names a
 
 We use this to check that our given coordinates are really within a state's boundaries.
 
-### [insert name here]
+### posm_coords_not_in_state_geojson.csv
 
-When checking whether postcode coordinates are within state boundaries, a few cropped in the wrong state. This file contains hand-corrected coordinates for these postcodes.
+When checking whether postcode coordinates are within state boundaries, a few cropped up in the wrong state. This file contains hand-corrected coordinates for these postcodes.
